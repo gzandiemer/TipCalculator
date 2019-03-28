@@ -1,0 +1,21 @@
+C:\Users\gzdie\Desktop\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\gzdie\Desktop\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\gzdie\Desktop\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\gzdie\Desktop\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csprojAssemblyReference.cache
+C:\Users\gzdie\Desktop\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gzdie\Desktop\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\gzdie\Desktop\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb
+C:\Users\gzdie\Desktop\Visual Studio\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\gzdie\Desktop\Visual Studio\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\gzdie\Desktop\Visual Studio\Projects\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\gzdie\Desktop\Visual Studio\Projects\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csprojAssemblyReference.cache
+C:\Users\gzdie\Desktop\Visual Studio\Projects\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gzdie\Desktop\Visual Studio\Projects\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\gzdie\Desktop\Visual Studio\Projects\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb
+C:\Users\gzdie\Documents\IT\Projects\Visual Studio\Calculators\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\gzdie\Documents\IT\Projects\Visual Studio\Calculators\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\gzdie\Documents\IT\Projects\Visual Studio\Calculators\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\gzdie\Documents\IT\Projects\Visual Studio\Calculators\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csprojAssemblyReference.cache
+C:\Users\gzdie\Documents\IT\Projects\Visual Studio\Calculators\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gzdie\Documents\IT\Projects\Visual Studio\Calculators\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\gzdie\Documents\IT\Projects\Visual Studio\Calculators\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb
